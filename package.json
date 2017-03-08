@@ -1,0 +1,13 @@
+{
+	"name":"chatnodejs",
+	"version":"0.1.0",
+	"description":"Chat desarrollado en Node.js",
+	"main":"app.js",
+	"author":"Marcos Adolfo García Gago <marcos.a.gg_beas@hotmail.com>",
+	"dependencies":{
+		"express":"~3.2.4",
+		"socket.io":"~1.7.3"
+	},
+	"license": "ISC"
+}
+
